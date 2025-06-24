@@ -40,7 +40,8 @@ El flujo de trabajo está organizado en una serie de notebooks de Jupyter, dise�
 │   └── 5_evaluate_models.ipynb     # 5. Evaluación final y comparación de todos los modelos
 ├── src/
 │   ├── architecture.py             # Define la arquitectura del modelo PyTorch
-│   └── data_utils.py               # Funciones para el manejo de datos y augmentation
+│   ├── data_utils.py               # Funciones para el manejo de datos y augmentation
+│   └── visualization_utils.py      # Funciones para la creación de gráficos
 ├── data/
 │   ├── raw/                        # Contiene el dataset original descomprimido
 │   └── processed/                  # Contiene los DataFrames y datos aumentados
