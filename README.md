@@ -2,9 +2,6 @@
 
 Este proyecto explora y compara diversas técnicas de Deep Learning para la clasificación de imágenes de hojas de plantas, con el objetivo de identificar 38 categorías distintas que incluyen diferentes especies y enfermedades. Se pone un énfasis especial en el manejo de datos desbalanceados a través de distintas estrategias de aumento de datos y en la comparación de arquitecturas de modelos (entrenamiento desde cero, Transfer Learning y Fine-Tuning).
 
-![Resultados Finales](https://i.imgur.com/8QeR3T4.png)
-*Gráfico comparativo del F1-Score (macro) para los 6 experimentos realizados.*
-
 ## 📝 Resumen del Proyecto
 El objetivo principal es construir un clasificador de imágenes robusto para identificar enfermedades en plantas. Para lograrlo, se sigue un flujo de trabajo sistemático:
 1.  **Análisis Exploratorio de Datos (EDA):** Se analiza la distribución de clases para identificar el desbalanceo inherente en el dataset.
