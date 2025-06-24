@@ -3,6 +3,7 @@
 Este proyecto explora y compara diversas técnicas de Deep Learning para la clasificación de imágenes de hojas de plantas, con el objetivo de identificar 38 categorías distintas que incluyen diferentes especies y enfermedades. Se pone un énfasis especial en el manejo de datos desbalanceados a través de distintas estrategias de aumento de datos y en la comparación de arquitecturas de modelos (entrenamiento desde cero, Transfer Learning y Fine-Tuning).
 
 **Data: Train (70%) - Validation (20%)**
+
 *Baseline vs Transfer Learning*
 ![image](https://github.com/user-attachments/assets/327649b6-a0ea-4e7c-b541-d92f7ac65148)
 
