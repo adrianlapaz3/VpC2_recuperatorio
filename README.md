@@ -75,7 +75,6 @@ La evaluación final se realizó sobre el conjunto de prueba, que el modelo nunc
 
 3.  **El Peligro del "Sobre-Balanceo":** La Estrategia 2, que buscaba un mayor balance recortando clases dominantes, obtuvo peores resultados que la Estrategia 1. Esto sugiere que las muestras de las clases mayoritarias contenían información valiosa y que un aumento más moderado y enfocado (Estrategia 1) es más beneficioso.
 
-4.  **Transferencia Negativa:** En la Estrategia 1, el modelo Baseline superó al de Transfer Learning simple. Esto es un claro indicador de "transferencia negativa", donde las características de ImageNet no se adaptaban bien al dominio de las plantas y el modelo que aprendió desde cero logró mejores resultados. El Fine-Tuning fue clave para corregir este efecto.
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
